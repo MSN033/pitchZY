@@ -4,10 +4,10 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "dev": "cd project && npm run dev",
-    "build": "cd project && npm run build",
-    "preview": "cd project && npm run preview",
-    "lint": "cd project && npm run lint"
+    "dev": "npm run dev",
+    "build": "npm run build",
+    "preview": "npm run preview",
+    "lint": "npm run lint"
   },
   "dependencies": {},
   "devDependencies": {}
